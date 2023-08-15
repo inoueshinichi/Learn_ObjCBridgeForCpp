@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "b85950a820d6e9ce135320ce5f9a79ea910fb25f251ff9025396d5e727582946"
+build_start_time: [1692103430, 810288906]
+build_end_time: [1692103430, 862504005]
+inputs:
+  "/Users/inoueshinichi/Desktop/MyGithub/Learn_ObjCBridgeForCpp/UseCppCode_Test1/UseCppCode_Test1/ContentView.swift": !private [1692103356, 406570911]
+  "/Users/inoueshinichi/Desktop/MyGithub/Learn_ObjCBridgeForCpp/UseCppCode_Test1/UseCppCode_Test1/UseCppCode_Test1App.swift": !private [1692102383, 279227256]

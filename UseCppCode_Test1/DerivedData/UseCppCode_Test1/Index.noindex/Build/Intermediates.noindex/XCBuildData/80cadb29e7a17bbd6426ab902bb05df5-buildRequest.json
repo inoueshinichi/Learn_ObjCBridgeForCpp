@@ -1,0 +1,58 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "3ebed002258a11fc6f0b609851de97612a5c7b701ef13cb6aa0f532a1addd65c"
+    }
+  ],
+  "containerPath" : "/Users/inoueshinichi/Desktop/MyGithub/Learn_ObjCBridgeForCpp/UseCppCode_Test1/UseCppCode_Test1.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/inoueshinichi/Desktop/MyGithub/Learn_ObjCBridgeForCpp/UseCppCode_Test1/DerivedData/UseCppCode_Test1/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/inoueshinichi/Desktop/MyGithub/Learn_ObjCBridgeForCpp/UseCppCode_Test1/DerivedData/UseCppCode_Test1/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/inoueshinichi/Desktop/MyGithub/Learn_ObjCBridgeForCpp/UseCppCode_Test1/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/inoueshinichi/Desktop/MyGithub/Learn_ObjCBridgeForCpp/UseCppCode_Test1/DerivedData/UseCppCode_Test1/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/inoueshinichi/Desktop/MyGithub/Learn_ObjCBridgeForCpp/UseCppCode_Test1/DerivedData/UseCppCode_Test1/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/inoueshinichi/Desktop/MyGithub/Learn_ObjCBridgeForCpp/UseCppCode_Test1/DerivedData/UseCppCode_Test1/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/inoueshinichi/Desktop/MyGithub/Learn_ObjCBridgeForCpp/UseCppCode_Test1/DerivedData/UseCppCode_Test1/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

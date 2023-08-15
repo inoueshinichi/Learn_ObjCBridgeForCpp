@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>53A92F0C-CC6C-41CC-B4D2-FAD850178D7C</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>038A9F89-D779-450D-85B8-C04553015462</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UseCppCode_Test1-2023.08.15_21-43-45-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UseCppCode_Test1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UseCppCode_Test1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UseCppCode_Test1</string>
+			<key>timeStartedRecording</key>
+			<real>713796225.419999</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UseCppCode_Test1</string>
+			<key>uniqueIdentifier</key>
+			<string>53A92F0C-CC6C-41CC-B4D2-FAD850178D7C</string>
+		</dict>
+		<key>B62FD297-DEB4-4452-A849-917B24230FD8</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>C53E360C-003A-4133-9F8A-9F2A38DE951C</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-UseCppCode_Test1-2023.08.15_21-45-24-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>UseCppCode_Test1 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UseCppCode_Test1</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run UseCppCode_Test1</string>
+			<key>timeStartedRecording</key>
+			<real>713796324.14439797</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run UseCppCode_Test1</string>
+			<key>uniqueIdentifier</key>
+			<string>B62FD297-DEB4-4452-A849-917B24230FD8</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

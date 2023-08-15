@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F5098A901447A6FC48CC7FEF614DE3AF38B80418",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F5098A901447A6FC48CC7FEF614DE3AF38B80418" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A267AEAB-2E90-49AF-9C91-64829DAB4A81",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F5098A901447A6FC48CC7FEF614DE3AF38B80418" : "Learn_ObjCBridgeForCpp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UseCppCode_Test1",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "UseCppCode_Test1\/UseCppCode_Test1.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/inoueshinichi\/Learn_ObjCBridgeForCpp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F5098A901447A6FC48CC7FEF614DE3AF38B80418"
+    }
+  ]
+}
